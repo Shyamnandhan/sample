@@ -1,2 +1,0 @@
-# sample
-Developed by shyamnandhan
